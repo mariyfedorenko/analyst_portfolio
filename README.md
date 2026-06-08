@@ -8,7 +8,7 @@
 ## О себе
 + Образование: Юридический факультет НГТУ 2017г
 + Закончила курс профессиональной переподготовки "Аналитик данных" на платформе Яндекс.Практикум
-+ Информация для связи: telegram: Fedorenko_Mariya почта: fedorenko.mi@mail.ru
++ Информация для связи: telegram: https://t.me/Fedorenko_Mariya почта: fedorenko.mi@mail.ru
 + 
 + Навыки: Python, Matplotlib, Numpy, Seaborn, pandas, Jupyter Notebook, MS Excel, Power Query, MS PowerPoint, jira, PostgreSQL, DBeaver, Анализ данных, Статистический анализ, Сбор и анализ информации, Предобработка данных,Визуализация данных, DataLens
 
